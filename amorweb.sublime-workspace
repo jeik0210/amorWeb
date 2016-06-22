@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"curs",
+				"cursor"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"al",
+				"alt	@alt"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"ta",
+				"target	@target"
+			],
+			[
+				"i",
+				"!important  (value)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"strip",
+				"strip_tags  (function)"
+			],
+			[
+				"fec",
+				"fechaFormato"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"but",
+				"button_contact"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"focus  (pseudo-class)"
+			],
+			[
+				"TEX",
+				"textarea"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"DIOS",
+				"display	zen:css_properties"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"background",
+				"background-color	zen:css_properties"
+			],
+			[
+				"tes",
+				"testimonial"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bACK",
+				"background-color"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"H",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"backgroud",
+				"background-color:   (property)"
+			],
+			[
+				"ideas",
+				"ideas3"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"l",
+				"list-style-type"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"page",
+				"page-footer"
+			],
+			[
+				"slide",
+				"slide_duration"
+			],
+			[
+				"slid",
+				"slideUp  (function)"
+			],
+			[
+				"idea",
+				"idea3"
+			],
+			[
+				"id",
+				"idea2"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"s",
+				"slideToggle  (function)"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"h",
+				"Hide"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"fa",
+				"fadeToggle  (function)"
+			],
+			[
+				"sl",
+				"slideUp  (function)"
+			],
+			[
+				"tog",
+				"toggle1"
+			],
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"sli",
+				"slideDown  (function)"
+			],
+			[
+				"font-s",
+				"font-style:   (property)"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"boder-c",
+				"border-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"moz-tr",
+				"-moz-transition:   (property)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"W",
+				"width	zen:css_properties"
+			],
+			[
+				"webkit-tr",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"o-tr",
+				"-moz-transition:   (property)"
+			],
+			[
+				"border-c",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Manuel/Desktop/Example.html",
+			"settings":
+			{
+				"buffer_size": 2682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2712,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 228.0,
+		"selected_items":
+		[
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"zen co",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"COLO",
+				"Color Picker: Insert Color"
+			],
+			[
+				"COLOR",
+				"Color Picker: Insert Color"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color picker"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Repositorio_local/320andup/index.html",
+		"/D/Repositorio_local/html5-boilerplate/index.html",
+		"/D/Repositorio_local/amorWeb/js/script.js",
+		"/D/Repositorio_local/amorWeb/css/320andup.css",
+		"/D/Repositorio_local/amorWeb/style.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/index.php",
+		"/C/Program Files (x86)/Scout/javascripts/app/process_interaction.js",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Zhemaroots/templates/page-header.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Zhemaroots/stylesheets/print.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Zhemaroots/stylesheets/screen.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Zhemaroots/assets/css/bootstrap.css",
+		"/D/Repositorio_local/roots/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/zhemaTheme/style.css",
+		"/C/xampp/htdocs/webKillapura/principal.php",
+		"/C/xampp/htdocs/geekeandonos/wp-config.php",
+		"/C/xampp/htdocs/wordpress/wp-config.php",
+		"/C/Users/Manuel/Desktop/hm5shut.html",
+		"/C/Users/Manuel/Desktop/testaudio2.html",
+		"/D/Repositorio_local/ZhemaWEB/.htaccess",
+		"/D/Pruebas Desarrollo/neobytec-AnimatedPanelMenu-ac1d88c/index.html",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/goto_css_declaration.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/CSS.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Element Finder.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/index.html",
+		"/D/Repositorio_local/ZhemaWEB/sitemap.xml",
+		"/D/Repositorio_local/ZhemaWEB/css/socialicon/fc-webicons.css",
+		"/D/Repositorio_local/ZhemaWEB/js/uitotop.js",
+		"/D/Repositorio_local/ZhemaWEB/process.php",
+		"/D/Repositorio_local/ZhemaWEB/css/style.css",
+		"/D/Repositorio_local/ZhemaWEB/js/script.js",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Emmet.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/sitemap",
+		"/D/Repositorio_local/ZhemaWEB/css/ui.totop.css",
+		"/C/Users/Manuel/Desktop/jquery-ajax/bin/process.php",
+		"/C/Users/Manuel/Downloads/blog-11-23-2012.xml",
+		"/C/Users/Manuel/Desktop/jquery-ajax/tutorial.html",
+		"/C/Users/Manuel/Desktop/jquery-ajax/js/runonload.js",
+		"/C/Users/Manuel/Desktop/jquery-ajax/js/tutorial.js",
+		"/D/Repositorio_local/ZhemaWEB/js/custom.js",
+		"/D/Repositorio_local/ZhemaWEB/phpmailer.php",
+		"/D/Repositorio_local/ZhemaWEB/css/general_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/js/plugins.js",
+		"/C/Users/Manuel/Desktop/process.php",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/general_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/social_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/servicios.html",
+		"/D/Pruebas Desarrollo/foundation_icons_all/foundation_icons_social/sass/social_foundicons.scss",
+		"/D/Repositorio_local/ZhemaWEB/css/iView/style.css",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Git.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/Git/Git.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/css/960.css",
+		"/D/Repositorio_local/ZhemaWEB/css/core.css",
+		"/D/Repositorio_local/ZhemaWEB/css/iView/iview.css",
+		"/D/Repositorio_local/ZhemaWEB/css/slides/slide.css",
+		"/D/Repositorio_local/ZhemaWEB/js/form-validations.js",
+		"/D/Repositorio_local/ZhemaWEB/contacto.html",
+		"/D/Repositorio_local/ZhemaWEB/nosotros.html",
+		"/D/Repositorio_local/ZhemaWEB/css/smoothness/jquery-ui-1.8.23.custom.css",
+		"/D/Dropbox/Proyectos/Angel Carassa LOGO TLH/templo_hermosa.html",
+		"/D/Repositorio_local/ZhemaWEB/js/jquerytweet.js",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/emmet-sublime/Emmet.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/css/social.css",
+		"/D/Google Drive/Geekeandonos!/hd-theme tumblr G.html",
+		"/C/Users/Manuel/Desktop/hd.html",
+		"/D/Repositorio_local/ZhemaWEB/js/list.js",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/foundation.css",
+		"/D/Repositorio_local/ZhemaWEB/css/social_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/zhemaweb.sublime-project",
+		"/D/Repositorio_local/ZhemaWEB/js/libs/UItoTop/jquery.ui.totop.min.js",
+		"/D/Repositorio_local/ZhemaWEB/js/jquery-ui-1.8.23.custom.min.js",
+		"/D/Repositorio_local/ZhemaWEB/sample.html",
+		"/D/Repositorio_local/ZhemaWEB/css/core",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/ZenCoding/Default.sublime-keymap",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/zen-coding.sublime-settings"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar",
+			" red",
+			"red",
+			": red",
+			":red",
+			"red",
+			"navbar-inner",
+			"nav",
+			"nav-in",
+			"nav-inner",
+			"nav_menu",
+			"nav_menu'",
+			"slides",
+			"cont_menu",
+			"caption",
+			"caption-",
+			"',",
+			"4ABCE4",
+			" ;",
+			"ease",
+			"rotateLogo",
+			"alternate",
+			"barralogo",
+			"cabecera",
+			"\"",
+			"logo",
+			"BrowserMatch MSIE ie",
+			"BrowserMatch MSIE ie\nHeader set X-UA-Compatible \"IE=Edge,chrome=1\" env=ie",
+			"portaf",
+			"caption-",
+			"box-comenzar",
+			"a ",
+			"iview",
+			"form",
+			"formcon",
+			"side-box",
+			"idea",
+			"foundic",
+			"i ",
+			"themanuelrc@gmail.com",
+			"mail@yourdomain.com",
+			"$to",
+			"TO",
+			"$email",
+			"custom",
+			"thumb",
+			"thumbs",
+			"thumbs-rollover",
+			"project",
+			"botonAcceder",
+			"submit_btn",
+			"message",
+			"contact",
+			"button",
+			"type",
+			"buttons",
+			"#mini_contact",
+			"negocio",
+			"cms",
+			"../",
+			"found",
+			"foundation",
+			"general",
+			"idea2",
+			"idea3",
+			"idea2",
+			"idea3",
+			"idea2",
+			"idea3",
+			"idea2",
+			"shadow-project",
+			"shadow",
+			"slide",
+			"retina",
+			"descri",
+			"descript",
+			"colum",
+			"colums",
+			"\">\n",
+			"button",
+			"desea hablar",
+			"body",
+			"ideas2",
+			"box-color",
+			"side-box",
+			"box_color",
+			"box-c",
+			"box-color",
+			"0d83dd",
+			"ideas3",
+			"A ",
+			"A",
+			"; ",
+			"idea",
+			"togglebox",
+			"togglebox1",
+			"despacio",
+			"commentform",
+			"href",
+			"strong",
+			"ideas3",
+			"side-box",
+			"min-height",
+			"success",
+			"contactus",
+			"CONTENIDO",
+			"contenido",
+			"contenido ",
+			"contenido",
+			"barra_ser",
+			"box-love",
+			"social",
+			"bottom-text",
+			"social",
+			"barra_sociales",
+			"about_z",
+			".bot",
+			"bot",
+			"bot ",
+			"bot",
+			"l1",
+			"l1 ",
+			"l1",
+			"ideas2",
+			"article",
+			"element",
+			"projects-list",
+			"idea1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2105,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										418,
+										434
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Manuel/Desktop/Example.html",
+					"settings":
+					{
+						"buffer_size": 2682,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1932,
+										1951
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								1648,
+								1592
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 2712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1224,
+								1224
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"class_or_id": "collage-container",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1896.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/reporterGeek.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}

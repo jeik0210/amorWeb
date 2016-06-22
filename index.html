@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Feliz 3 Aniversario mi princesa</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Allura' rel='stylesheet' type='text/css'>
+
+	<!-- 16x16 -->
+	<link rel="shortcut icon" href="/favicon.ico">
+	<!-- 32x32 -->
+	<link rel="shortcut icon" href="/favicon.png">
+
+</head>
+<body >
+<div id="wrapper">
+	<h3  id="texto">Espera unos segundos y descubri lo que hay dentro...</h2>
+	<div  id="latido" class="collage-container">
+
+	<h1>Feliz Aniversario Princesa!</h1>
+	<img id="c3" src="img/corazon3.png" alt="3 años">
+	<img id="c2" src="img/corazon2.png" alt="2 años">
+	<img id="c1" src="img/corazon1.png" alt="1 años">
+
+	<!-- imagenes de collage -->
+	<img src="img/foto1.jpg" alt="♥" id="collage-1" class="item">
+	<img src="img/foto2.jpg" alt="♥" id="collage-2" class="item">
+	<img src="img/foto3.jpg" alt="♥" id="collage-3" class="item">
+	<img src="img/foto4.jpg" alt="♥" id="collage-4" class="item">
+	<img src="img/foto5.jpg" alt="♥" id="collage-5" class="item">
+	<img src="img/foto6.jpg" alt="♥" id="collage-6" class="item">
+	<img src="img/foto7.jpg" alt="♥" id="collage-7" class="item">
+	<img src="img/foto8.png" alt="♥" id="collage-8" class="item">
+	<img src="img/foto9.jpg" alt="♥" id="collage-9" class="item">
+	<img src="img/foto10.jpg" alt="♥" id="collage-10" class="item">
+	<img src="img/foto11.jpg" alt="♥" id="collage-11" class="item">
+	<img src="img/foto12.png" alt="♥" id="collage-12" class="item">
+	<img src="img/foto13.jpg" alt="♥" id="collage-13" class="item">
+
+
+	</div>
+	<h3 id="dedicado">♥ Te amo mi Zherly ♥</h3>
+</div>
+
+<script src="js/prefixfree.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		// collage
+	  $(".collage-container img.item").mouseover(function(){
+	  $(".collage-container img.item").css("z-index",5);
+	  $(this).css("z-index",999);
+	  $(this).fadeOut(600);
+	  $("#latido h1").css("z-index",999);
+
+	  });
+	});
+</script>
+</body>
+</html>

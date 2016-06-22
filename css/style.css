@@ -1,0 +1,201 @@
+::selection{
+    background: rgba(255,51,102,.5);
+}
+body{
+  background: #FF9E9D url(../img/barra_top.png) repeat-x;
+  font-family: 'Allura', cursive;
+  color:white;
+	font-size:40px;
+	text-align:center;
+}
+
+
+#latido{
+  margin:5% auto;
+  width:600px;
+  z-index: 1;
+  position: relative;
+}
+
+#latido img#c3{
+    	animation:7s latido3 infinite;
+}
+
+#latido img#c2{
+    	animation:5s latido2 infinite;
+}
+
+#latido img#c1{
+    	animation:4s latido1 infinite;
+}
+
+
+@keyframes latido3{
+   0%{transform:scale(1)}
+   47%{transform:scale(1)}
+   48%{transform:scale(.9)}
+   50%{transform:scale(1.2)}
+   52%{transform:scale(.9)}
+   54%{transform:scale(1)}
+}
+
+
+@keyframes latido2{
+   0%{transform:scale(1)}
+   34%{transform:scale(1)}
+   36%{transform:scale(.9)}
+   40%{transform:scale(1.1)}
+   42%{transform:scale(.9)}
+   44%{transform:scale(1)}
+}
+
+
+@keyframes latido1{
+   0%{transform:scale(1)}
+   57%{transform:scale(1)}
+   59%{transform:scale(.9)}
+   60%{transform:scale(1.1)}
+   62%{transform:scale(1.1)}
+   64%{transform:scale(1)}
+}
+
+
+#latido h1{
+   position:absolute;
+   left:15%;
+   line-height:60px;
+   top:40%;
+   width:400px;
+   text-shadow: 2px 2px 5px #246DAA;
+   animation: 3s latido3 infinite;
+
+}
+#texto{
+    margin: 10px 0;
+    text-shadow: 1px 1px 10px #FF3D7F;
+}
+
+/*collage*/
+
+.collage-container{
+	width:600px;
+	height:500px;
+	margin:auto;
+	position: relative;
+	z-index: 0;
+}
+
+.collage-container img.item{
+	width:168px;
+	height:224px;
+	padding:10px;
+	background#eee;
+	border-radius:20px;
+	position:absolute;
+	display: inline-block;
+	z-index: -999;
+}
+
+#collage-1{
+z-index:1;
+top:30px;
+left:50px;
+transform:rotate(-20deg);
+}
+
+#collage-2{
+z-index:2;
+top:50px;
+right:50px;
+transform:rotate(10deg);
+
+}
+#collage-3{
+z-index:3;
+top:20px;
+left:150px;
+transform:rotate(30deg);
+
+}
+#collage-4{
+z-index:4;
+top:250px;
+left:100px;
+transform:rotate(-40deg);
+}
+#collage-5{
+z-index:5;
+top:150px;
+left:350px;
+transform:rotate(-40deg);
+
+}
+#collage-6{
+z-index:6;
+top:50px;
+left:280px;
+transform:rotate(-10deg);
+}
+#collage-7{
+z-index:7;
+top:250px;
+left:270px;
+transform:rotate(30deg);
+}
+
+
+
+#collage-8{
+z-index:8;
+top:200px;
+left:20px;
+transform:rotate(-27deg);
+}
+
+#collage-9{
+z-index:9;
+top:2px;
+right:30px;
+transform:rotate(10deg);
+
+}
+#collage-10{
+z-index:10;
+top:260px;
+left:50px;
+transform:rotate(-26deg);
+
+}
+#collage-11{
+z-index:11;
+top:130px;
+left:50px;
+transform:rotate(-60deg);
+}
+
+#collage-12{
+z-index:12;
+top:120px;
+left:100px;
+transform:rotate(-40deg);
+
+}
+#collage-13{
+z-index:13;
+top:40px;
+left:280px;
+transform:rotate(49deg);
+}
+
+
+
+/*petalos*/
+
+#wrapper {
+   position:absolute;
+   left:0px;
+   right:0px;
+   top:0px;
+   bottom:0px;
+   background:url(../img/petalos2.png) repeat-x 70%, url(../img/petalos3.png) repeat-x 120%;
+}
